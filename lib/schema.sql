@@ -18,3 +18,7 @@ title TEXT,
 year INTEGER,
 series_id TEXT
 );
+CREATE TABLE characters (
+id INTEGER PRIMARY KEY,
+name TEXT
+);
