@@ -26,3 +26,8 @@ motto TEXT,
 series_id TEXT,
 author_id TEXT
 );
+
+CREATE TABLE character_books (
+id INTEGER PRIMARY KEY,
+name TEXT
+);
