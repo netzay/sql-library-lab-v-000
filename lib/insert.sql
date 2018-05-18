@@ -20,6 +20,10 @@ INSERT INTO characters VALUES (8, "Spoon", "bear", "Boop", 5, 10);
 INSERT INTO subgenres VALUES (1, "Romance");
 INSERT INTO subgenres VALUES (2, "Fantasy");
 
+INSERT INTO authors VALUES (2, "Fantasy");
+INSERT INTO authors VALUES (2, "Fantasy");
+
+
 
 
 
