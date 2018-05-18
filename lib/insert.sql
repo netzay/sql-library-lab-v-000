@@ -1,0 +1,1 @@
+INSERT INTO series VALUES (1,"proj","music","Today","next week", "$4,000");
