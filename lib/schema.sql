@@ -14,5 +14,5 @@ name TEXT
 );
 CREATE TABLE books (
 id INTEGER PRIMARY KEY,
-name TEXT
+title TEXT
 );
