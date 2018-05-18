@@ -8,8 +8,7 @@ INSERT INTO books VALUES (4, "pond", "2000", 4);
 INSERT INTO books VALUES (5, "ocean", "2001", 5);
 INSERT INTO books VALUES (6, "rock", "2005", 6);
 
-INSERT INTO books VALUES (6, "rock", "2005", 6);
-
+INSERT INTO characters VALUES (1, "Julie", "Dog", "Hey", 1, 1);
 
 
 
