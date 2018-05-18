@@ -18,6 +18,10 @@ INSERT INTO characters VALUES (7, "Salt", "bunny", "Bop", 6, 7);
 INSERT INTO characters VALUES (8, "Spoon", "bear", "Boop", 5, 10);
 
 
+INSERT INTO subgenre VALUES (1, "Julie", "Dog", "Hey", 1, 1);
+
+INSERT INTO characters VALUES (1, "Julie", "Dog", "Hey", 1, 1);
+
 
 
 
