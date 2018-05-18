@@ -23,5 +23,6 @@ id INTEGER PRIMARY KEY,
 name TEXT,
 species TEXT,
 motto TEXT,
-series_id TEXT
+series_id TEXT,
+author_id TEXT
 );
